@@ -1,0 +1,1 @@
+This repository contains a demonstration of a subtle bug in a Tcl procedure. The procedure `badproc` incorrectly uses a numeric comparison in its conditional statement, resulting in unexpected behavior. The bug is demonstrated in `bug.tcl`, and a corrected version is provided in `bugSolution.tcl`.
